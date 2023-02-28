@@ -5,8 +5,9 @@
 In this README.md, answer the following question:
 
 * What happens if you invoke a value method (i.e. a method that returns a result) and don't do anything with the returned result; that is, if you don't assign the returned result to a variable or use it as part of a larger expression?
-
-## PART 2
+  * 
+  * **The Method still executes but its return value is never stored anywhere.**
+  *
 * Fork and clone this lab as you have done in all previous labs, and then complete the following:
     * Create a new **class** called **Lab006**
     * Create two **int**eger instance variables for class Lab006 called **n** and **m**.
